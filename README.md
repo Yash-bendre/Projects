@@ -1,3 +1,3 @@
 # Projects
 This Is My First Repository
-AUthor-Yash Bendre
+Author-Yash Bendre
