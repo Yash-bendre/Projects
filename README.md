@@ -1,3 +1,3 @@
 # Projects
-This Is My First Repository
-Author-Yash Bendre
+This Is Python Projects
+
